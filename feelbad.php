@@ -1,3 +1,9 @@
+<?php
+  include('dog.function.php');
+  $pdo = connect_to_db();
+
+?>
+
 <!DOCTYPE html>
 <html lang="ja">
   <head>

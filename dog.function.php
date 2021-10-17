@@ -1,7 +1,7 @@
 <?php
 function connect_to_db()
 {
-    $dbn='mysql:dbname=dog;charset=utf8;port=3306;host=localhost';
+    $dbn='mysql:dbname=topic;charset=utf8;port=3306;host=localhost';
     $user = 'root';
     $pwd = '';
     try {

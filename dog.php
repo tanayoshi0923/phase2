@@ -1,3 +1,11 @@
+<?php
+  include('dog.function.php');
+  $pdo = connect_to_db();
+
+  echo 'hello world'
+?>
+
+
 <!DOCTYPE html>
 <html lang="jp">
   <head>
